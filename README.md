@@ -1,4 +1,4 @@
-# Customer Churn Analysis - EDA and Modeling
+# Customer Retention Predictor - EDA and Modeling
 
 ## Overview
 
